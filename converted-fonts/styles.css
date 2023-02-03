@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Norse-Bold";
+  src: url(./Norse-Bold.eot);
+  src: url(./Norse-Bold.eot?#iefix) format("embedded-opentype"),
+    url(./Norse-Bold.otf) format("otf"),
+    url(./Norse-Bold.svg#Norse-Bold) format("svg"),
+    url(./Norse-Bold.ttf) format("truetype"),
+    url(./Norse-Bold.woff) format("woff"),
+    url(./Norse-Bold.woff2) format("woff2");
+}
